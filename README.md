@@ -1,2 +1,2 @@
 # Cube-Processing
-Mouvement de translation d'un cube sur processing
+Mouvement d'un cube sur processing avec rebond et changement de direction lorsqu'on atteint les limites de la fenetre
